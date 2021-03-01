@@ -1,0 +1,16 @@
+- technique:
+    - name: X-ray diffraction
+    - chmo: 0000156
+- maintainer: 
+    - name: Bruker
+    - url: 
+- extension: brml
+- description: |
+    brml files are zip archives of XML files. 
+- internetMediaType: application/zip
+- license:
+- examples: [examples/ex1.brml, examples/ex2.brml]
+- encoding:
+- links: 
+- magicNumbers:
+- openFormat: False

@@ -1,0 +1,19 @@
+- technique:
+    - name: Thermogravimetric Analysis
+    - chmo: 0000690
+- maintainer: 
+    - name: TA Instruments
+    - url: 
+- extension: txt
+- description: |
+    txt files from TGA instruments from TA Instruments contain a header with metadata and followed by the actual temperature, mass, and gas flow data
+- notes: 
+    - the `StartOfData` line does not seem to be present in all files of version 2  
+- version: 2.0
+- internetMediaType: text/plain
+- license:
+- examples: [examples/ex1.brml, examples/ex2.brml]
+- encoding: UTF-16LE
+- links: 
+- magicNumbers:
+- openFormat: False
